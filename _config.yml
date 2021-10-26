@@ -3,7 +3,7 @@ title: My new site
 subtitle: by Chris Geroux
 email: chris.geroux@ace-net.ca
 description: Some bits I find interesting
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cloud_workshop_site" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere
