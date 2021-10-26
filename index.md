@@ -7,7 +7,7 @@ image: null
 author: null
 show_tile: true
 ---
-
+ 
 Some new text Some more new text
 
 This makes editing the page much faster and I get a nice GUI editor to do it with!!
